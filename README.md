@@ -1,70 +1,20 @@
-# Getting Started with Create React App
+# Secure Communication through Blockchain
+The research focuses on developing decentralized chat applications that leverage private blockchain networks, particularly using Go-Ethereum (GETH) technology and the clique consensus method, to ensure secure and private peer-to-peer communication while mitigating censorship and privacy risks.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Motivation
+The pursuit of Secure Peer-to-Peer Communication using Private Network Blockchain Technology is underpinned by the escalating threat landscape in the realm of cybersecurity. In recent times, cyberattacks have surged to alarming levels, with an estimated 4,000 attacks occurring daily, resulting in global annual losses exceeding $1 trillion. These attacks come in various forms, from data breaches and ransomware attacks to phishing schemes, posing a significant risk to individuals and organizations alike. The statistics highlight a growing and urgent need to fortify the security of our digital interactions and data.
 
-## Available Scripts
+The COVID-19 pandemic has further exacerbated the situation by accelerating the shift towards digital communication platforms. This transition has left individuals and organizations more vulnerable to data breaches and cybercrimes. With personal data breaches impacting over 2 billion people worldwide and considering that approximately 60% of small businesses go out of business within six months of a cyberattack, the imperative to enhance the security and privacy of peer-to-peer communication becomes even more pronounced. 
 
-In the project directory, you can run:
+In response to these challenges, the adoption of Private Network Blockchain Technology emerges as a promising solution. It holds the potential to not only mitigate the disconcerting statistics but also to fortify the protection of sensitive information in an increasingly digitalized world.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Proposed Architecture
+![image](https://github.com/mohd-raza/Secure-Peer-to-Peer-Communication-using-Private-Network-Blockchain-Technology/assets/91888013/5c653eef-bc4e-4d53-adc7-f43dab9b8dda)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+## Conference, Presentation and Publication
+Our research titled **Secure Peer-to-Peer Communication using Private Network Blockchain Technology** has been presented at the ***3rd International Conference on Advanced Computing Technologies and Applications, 2023*** and accepted for publication in **IEEE Xplore.**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Authors:
+Mohammed Raza Syed, Mihir Shinde, Siddharth Unny, Sahil Nair & Ashok Patade
