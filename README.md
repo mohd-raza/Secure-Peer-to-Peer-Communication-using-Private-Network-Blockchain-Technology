@@ -14,7 +14,6 @@ In response to these challenges, the adoption of Private Network Blockchain Tech
 
 
 ## Conference, Presentation and Publication
-Our research titled **Secure Peer-to-Peer Communication using Private Network Blockchain Technology** has been presented at the ***3rd International Conference on Advanced Computing Technologies and Applications, 2023*** and accepted for publication in **IEEE Xplore.**
-
+Our research titled [Secure Peer-to-Peer Communication using Private Network Blockchain Technology](https://ieeexplore.ieee.org/abstract/document/10393506/) was presented at the 3rd International Conference on Advanced Computing Technologies and Applications, 2023 and published in IEEE Xplore.
 ## Authors:
-Mohammed Raza Syed, Mihir Shinde, Siddharth Unny, Sahil Nair & Ashok Patade
+Mohammed Raza Syed, Mihir Shinde
